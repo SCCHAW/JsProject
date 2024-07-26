@@ -1,15 +1,16 @@
 
-# Project Name
+# To-Do List Project
 
-A brief description of what your project does and its purpose.
+This is only a self learning to-do list project. 
+Project carried out with HTML5,CSS and Javascript.
+I implemented the CRUD logic 
 
 ## TODO List
 
-- [x] Implement user authentication
-- [x] Set up database schema
-- [ ] Integrate payment gateway
-- [ ] Write unit tests
-- [ ] Deploy to production environment
+- [x] User can create task and add to the list
+- [x] Users can view the list
+- [x] Users can check the task or "marked" as done in the list
+- [x] Users can delete the task from the list
 
 ## Screenshot
 
