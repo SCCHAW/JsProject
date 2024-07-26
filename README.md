@@ -3,24 +3,14 @@
 
 A brief description of what your project does and its purpose.
 
-## Table of Contents
+## TODO List
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [TODO List](#todo-list)
-- [Contributing](#contributing)
-- [License](#license)
+- [x] Implement user authentication
+- [x] Set up database schema
+- [ ] Integrate payment gateway
+- [ ] Write unit tests
+- [ ] Deploy to production environment
 
-## Installation
+## Screenshot
 
-Instructions on how to set up and install your project.
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/your-repository.git
-
-# Change directory into the project folder
-cd your-repository
-
-# Install d
+<img src="path/to/your/image.png" alt="Project Screenshot" width="100" height="100">
