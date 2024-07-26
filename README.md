@@ -13,5 +13,8 @@ I implemented the CRUD logic
 - [x] Users can delete the task from the list
 
 ## Screenshot
+![Screenshot 2024-07-26 182012](https://github.com/user-attachments/assets/ed9d4367-9a9d-4566-949b-b55038f5fa38)
+
+
 
 <img src="path/to/your/image.png" alt="Project Screenshot" width="100" height="100">
